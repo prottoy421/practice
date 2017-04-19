@@ -1,0 +1,262 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.top-header {
+    background-color: black;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.pad {
+    padding: 8px 0;
+}
+
+.contact-box {
+    width: 50%;
+    float: left;
+}
+
+.contact-box p {
+    margin: 0;
+    font-size: 13px;
+    color: #e8b660;
+}
+
+.phn {
+    padding-left: 15px;
+}
+
+.social-box {
+    width: 50%;
+    float: left;
+}
+
+.social-box ul {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+.social-box ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.social-box ul li a {
+    padding: 0 5px;
+    text-decoration: none;
+    display: block;
+    color: gray;
+}
+
+.logo {
+    width: 20%;
+    float: left; 
+}
+
+.menu {
+    width: 80%;
+    float: left;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+.menu ul li {
+    list-style-type: none;
+    display: inline-block;
+    border-right: 1px solid #F3F3F3;
+    padding: 20px 20px 0;
+    
+}
+
+.menu ul li a {
+    text-decoration: none;
+    display: block;
+    color: #4B494A;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.button {
+    border: 2px solid #6D6D6D;
+    border-radius: 2px;
+    padding: 10px 100px;
+}
+
+.menu ul li:hover {
+    color: #000000;
+    background-color: #CCCCCC;
+}
+
+.menu ul li a:focus {
+    color: #000000;
+    background-color: #CCCCCC;
+}
+
+.menu ul li:nth-child(4) {
+    border-right: 0 solid #635e5e;
+}
+
+.menu ul li:last-child {
+    border-right: 0 solid #635e5e;
+}
+
+.bg {
+    background-image: url(../images/pexels-60.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.business-content {
+    width: 50%;
+    float: left;
+    padding: 100px 0;
+    margin-left: 50px;
+}
+
+.business-content h1 {
+    color: #FDFEF7;
+    font-size: 35px;
+}
+
+.business-content h1 span {
+    color: #DF6F31;
+}
+
+.business-content p {
+    color: #FDFEF7;
+    font-size: 18px;
+}
+
+.business-content img {
+    max-width: 100%;
+    width: 70px;
+}
+
+.signup-form {
+    width: 40%;
+    float: left;
+    padding: 100px 0;
+}
+
+.signup-form .form {
+    background-color: #FFFFFF;
+    padding: 30px 25px 65px;
+}
+
+.form h1 {
+    color: #2D679F;
+    text-align: center;
+}
+
+.form input {
+    display: block;
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 8px;
+    border: 1px solid #EAEAEA;
+}
+
+.form .submit-button {
+    text-transform: uppercase;
+    background-color: #FFFFFF;
+    border: 2px solid #0B1528;
+    border-radius: 3px;
+    margin: 20px 0 0 66px;
+    width: auto;
+    padding: 10px 100px;
+    
+}
+
+.logo-block {
+    background-color: #C8E158;
+}
+
+.body-content {
+    margin-left: 55px;
+}
+
+.left-content {
+    width: 50%;
+    float: left;
+    display: inline-block;
+}
+
+.first-left img {
+    float: left;
+    margin-right: 29px;
+}
+
+.first-left p{
+    font-size: 12px;
+}
+
+.second-left img{
+    float: left;
+    margin-right: 33px;
+}
+
+.second-left p{
+    font-size: 12px;
+}
+
+.third-left img {
+    float: left;
+    margin-right: 10px;
+}
+
+.third-left p{
+    font-size: 12px;
+}
+
+.right-content {
+    width: 50%;
+    float: left;
+    display: inline-block;
+}
+
+.first-right img {
+    float: left;
+    margin-right: 10px;
+}
+
+.first-right p{
+    font-size: 12px;
+}
+
+.second-right img{
+    float: left;
+    margin-right: 31px;
+}
+
+.second-right p{
+    font-size: 12px;
+}
+
+.third-right img {
+    float: left;
+    margin-right: 39px;
+}
+
+.third-right p{
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
